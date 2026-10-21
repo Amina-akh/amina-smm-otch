@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/img/:path*", "destination": "/aninot-smm-report/img/:path*" }
+  ]
+}
